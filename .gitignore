@@ -1,0 +1,10 @@
+Debug/
+Release/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.log
+.vscode/
