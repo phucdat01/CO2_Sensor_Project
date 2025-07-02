@@ -1,0 +1,8 @@
+../Core/Src/mq135.c:4:6:MQ135_Init	24	static
+../Core/Src/mq135.c:11:7:MQ135_GetCorrectionFactor	24	static
+../Core/Src/mq135.c:19:7:MQ135_GetResistance	40	static
+../Core/Src/mq135.c:34:7:MQ135_GetCorrectedResistance	32	static
+../Core/Src/mq135.c:38:7:MQ135_GetPPM	16	static
+../Core/Src/mq135.c:42:7:MQ135_GetCorrectedPPM	24	static
+../Core/Src/mq135.c:46:7:MQ135_GetRZero	16	static
+../Core/Src/mq135.c:50:7:MQ135_GetCorrectedRZero	24	static
